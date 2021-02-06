@@ -24,7 +24,7 @@
         "phpstan/phpstan-strict-rules": "^0.12",
         "nette/tester": "^2.3"
     },
-    "license": "MIT",
+    "license": ["MIT"],
     "authors": [
         {
             "name": "Petr Parolek",

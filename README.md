@@ -1,5 +1,5 @@
 <p align=center>
-  <a href="https://github.com/webnazakazku/nette-classes-standards"><img src="https://badgen.net/github/checks/webnazakazku/nette-classes-standards/master?cache=300"></a>
+  <a href="https://github.com/webnazakazku/nette-classes-standards/actions"><img src="https://badgen.net/github/checks/webnazakazku/nette-classes-standards/master?cache=300"></a>
   <a href="https://packagist.org/packages/webnazakazku/nette-classes-standards"><img src="https://badgen.net/packagist/dm/webnazakazku/nette-classes-standards"></a>
   <a href="https://packagist.org/packages/webnazakazku/nette-classes-standards"><img src="https://badgen.net/packagist/v/webnazakazku/nette-classes-standards"></a>
 </p>
@@ -28,9 +28,7 @@ For details on how to use this package, check out our [documentation](.docs).
 |-------------|-----------|----------|----------|
 | dev         |  dev      | `master` | `^7.2`   |
 
-## Development
-
-See [how to contribute](https://contributte.org) to this package. This package is currently maintained by these authors.
+## Author
 
 <a href="https://github.com/petrparolek">
     <img width="150" height="150" src="https://avatars0.githubusercontent.com/u/6066243?s=150&v=4">
