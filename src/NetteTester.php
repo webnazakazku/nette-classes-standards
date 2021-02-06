@@ -1,11 +1,7 @@
-<?php
-
-declare(strict_types = 1);
+<?php declare(strict_types = 1);
 
 namespace Tester;
 
-use Tester\Runner;
-
-if (class_exists(Runner\OutputHandler::class)) {
+if (class_exists(Runner\Runner::class)) {
 	class_alias(Runner\OutputHandler::class, Runner\OutputHandlerInterface::class);
 }
