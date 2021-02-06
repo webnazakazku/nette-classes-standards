@@ -1,0 +1,45 @@
+{
+    "name": "webnazakazku/nette-interface-standards",
+    "type": "library",
+    "require": {
+        "php": ">=7.2"
+    },
+    "require-dev": {
+        "nette/application": "^3.1",
+        "nette/caching": "^3.1",
+        "nette/component-model": "^3.0",
+        "nette/database": "^3.1",
+        "nette/di": "^3.0",
+        "nette/forms": "^3.1",
+        "nette/http": "^3.1",
+        "nette/mail": "^3.1",
+        "nette/security": "^3.1",
+        "nette/utils": "^3.2",
+        "latte/latte": "^2.9"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Petr Parolek",
+            "email": "petr.parolek@gmail.com"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/Latte.php",
+            "src/NetteApplication.php",
+            "src/NetteCaching.php",
+            "src/NetteComponentModel.php",
+            "src/NetteDatabase.php",
+            "src/NetteDI.php",
+            "src/NetteForms.php",
+            "src/NetteHttp.php",
+            "src/NetteMail.php",
+            "src/NetteRouting.php",
+            "src/NetteSchema.php",
+            "src/NetteSecurity.php",
+            "src/NetteTester.php",
+            "src/NetteUtils.php"
+        ]
+    }
+}
