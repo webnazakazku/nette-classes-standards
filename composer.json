@@ -1,5 +1,5 @@
 {
-    "name": "webnazakazku/nette-interface-standards",
+    "name": "webnazakazku/nette-classes-standards",
     "type": "library",
     "require": {
         "php": ">=7.2"

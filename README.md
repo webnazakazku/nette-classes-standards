@@ -1,20 +1,20 @@
 <p align=center>
-  <a href="https://github.com/webnazakazku/nette-interface-standards"><img src="https://badgen.net/github/checks/webnazakazku/nette-interface-standards/master?cache=300"></a>
-  <a href="https://packagist.org/packages/webnazakazku/nette-interface-standards"><img src="https://badgen.net/packagist/webnazakazku/nette-interface-standards"></a>
-  <a href="https://packagist.org/packages/webnazakazku/nette-interface-standards"><img src="https://badgen.net/packagist/v/webnazakazku/nette-interface-standards"></a>
+  <a href="https://github.com/webnazakazku/nette-classes-standards"><img src="https://badgen.net/github/checks/webnazakazku/nette-classes-standards/master?cache=300"></a>
+  <a href="https://packagist.org/packages/webnazakazku/nette-classes-standards"><img src="https://badgen.net/packagist/dm/webnazakazku/nette-classes-standards"></a>
+  <a href="https://packagist.org/packages/webnazakazku/nette-classes-standards"><img src="https://badgen.net/packagist/v/webnazakazku/nette-classes-standards"></a>
 </p>
 <p align=center>
-  <a href="https://packagist.org/webnazakazku/nette-interface-standards"><img src="https://badgen.net/packagist/php/webnazakazku/nette-interface-standards"></a>
-  <a href="https://github.com/webnazakazku/nette-interface-standards"><img src="https://badgen.net/github/license/webnazakazku/nette-interface-standards"></a>
+  <a href="https://packagist.org/webnazakazku/nette-classes-standards"><img src="https://badgen.net/packagist/php/webnazakazku/nette-classes-standards"></a>
+  <a href="https://github.com/webnazakazku/nette-classes-standards"><img src="https://badgen.net/github/license/webnazakazku/nette-classes-standards"></a>
   <a href="https://github.com/sponsors/petrparolek"><img src="https://badgen.net/badge/sponsor/donations/F96854"></a>
 </p>
 
 ## Usage
 
-To install latest version of `webnazakazku/nette-interface-standards` use [Composer](https://getcomposer.com).
+To install latest version of `webnazakazku/nette-classes-standards` use [Composer](https://getcomposer.com).
 
 ```
-composer require webnazakazku/nette-interface-standards
+composer require webnazakazku/nette-classes-standards
 ```
 
 ## Documentation

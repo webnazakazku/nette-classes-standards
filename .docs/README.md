@@ -1,4 +1,4 @@
-# webnazakazku/nette-interface-standards
+# webnazakazku/nette-classes-standards
 
 ## Content
 
