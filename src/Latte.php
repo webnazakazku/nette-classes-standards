@@ -2,6 +2,16 @@
 
 declare(strict_types = 1);
 
+namespace Latte\Runtime;
+
+/**
+ * @internal
+ */
+interface SnippetBridgeInterface extends SnippetBridge
+{
+}
+
+
 namespace Latte;
 
 if (Engine::class) {
